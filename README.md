@@ -1,8 +1,8 @@
-# ZidDesk - Assestment Test BESTAD - by M.Sobari
+# ZidDesk App - Assestment Test BESTADA  by M.Sobari
 ## API  : https://bestada.stoplight.io/docs/interview/0fe0b0a7b402d-get-ticket
 
 
-## Scree nShoots Aplikasi 
+## Screen Shoots Aplikasi 
 
 ![preview img](/ss1.png)
 ![preview img](/ss2.png)
