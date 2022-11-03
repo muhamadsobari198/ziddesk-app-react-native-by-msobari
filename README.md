@@ -1,4 +1,4 @@
-# ZidDesk - Assestment Test PT.Bestari Aditama Persada
+# ZidDesk - Assestment Test BESTAD - by M.Sobari
 ## API  : https://bestada.stoplight.io/docs/interview/0fe0b0a7b402d-get-ticket
 
 
