@@ -40,7 +40,7 @@ const App = () => {
 			if (user) {
 				user = JSON.parse(user);
 				if (user.loggedIn) {
-					setInitialRouteName('Home');
+					setInitialRouteName('FailedScreen');
 				} else {
 					setInitialRouteName('LoginScreen');
 				}
